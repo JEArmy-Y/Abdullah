@@ -1,4 +1,5 @@
 Name : Abdullah Mohammed Abdullah Ba-wahab
-Deparment of Information Security,
-Faculty Of Applied Sience
+Deparment : Information Security,
+Faculty : Applied Sience
 Level : 2
+
